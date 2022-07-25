@@ -2,7 +2,8 @@ from __future__ import print_function
 
 from random import choice
 from itertools import chain
-from accumulation_tree import AccumulationTree
+from accumulation_tree.accumulation_tree import AccumulationTree
+
 import pyudorandom
 
 
